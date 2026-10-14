@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[21757,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.js"],"default"]
-3:I[61465,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.js"],"default"]
-4:I[20348,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.js"],"default"]
-13:I[5500,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.js"],"Image"]
-14:I[95147,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.js"],"default"]
-15:I[29194,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.js"],"default"]
+2:I[21757,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.ga4-fe807b6074e2.js"],"default"]
+3:I[61465,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.ga4-fe807b6074e2.js"],"default"]
+4:I[20348,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.ga4-fe807b6074e2.js"],"default"]
+13:I[5500,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.ga4-fe807b6074e2.js"],"Image"]
+14:I[95147,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.ga4-fe807b6074e2.js"],"default"]
+15:I[29194,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js","/cs15-trading/_next/static/chunks/02axzwqcetkoe.ga4-fe807b6074e2.js"],"default"]
 16:I[97367,["/cs15-trading/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-trading/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
 17:"$Sreact.suspense"
 :HL["/cs15-trading/_next/static/chunks/0we0286crmca0.css","style"]
@@ -21,6 +21,6 @@ d:["$","$L15",null,{"placement":"landing","title":"Получайте новые
 e:["$","footer",null,{"className":"footer shell","children":[["$","div",null,{"className":"brand","children":[["$","span",null,{"className":"brand-mark","children":"B:C"}],["$","span",null,{"children":"BLOCKCAPITAL"}]]}],["$","p",null,{"children":"Материалы носят образовательный характер и не являются индивидуальной инвестиционной рекомендацией. Финансовый результат не гарантируется. Работа с цифровыми активами связана с риском полной потери средств."}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://theblockcapital.ru/privacy","target":"_blank","rel":"noreferrer","children":"Политика конфиденциальности"}],["$","span",null,{"children":"© 2026 BlockCapital"}]]}]]}]
 f:["$","a",null,{"className":"mobile-cta","href":"#access","data-metrika-goal":"lead_form_cta_click","data-metrika-placement":"mobile_fixed","children":["Открыть запись ",["$","span",null,{"aria-hidden":"true","children":"↓"}]]}]
 10:["$","link","0",{"rel":"stylesheet","href":"/cs15-trading/_next/static/chunks/0we0286crmca0.css","precedence":"next"}]
-11:["$","script","script-0",{"src":"/cs15-trading/_next/static/chunks/02axzwqcetkoe.js","async":true}]
+11:["$","script","script-0",{"src":"/cs15-trading/_next/static/chunks/02axzwqcetkoe.ga4-fe807b6074e2.js","async":true}]
 12:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
 18:null
